@@ -1,0 +1,8 @@
+10
+32
+0
+199
+// num of traces accessed
+// random seed for generating random traces
+// min of random range
+// max of random range
