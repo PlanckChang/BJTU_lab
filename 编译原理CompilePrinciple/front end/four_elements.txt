@@ -1,0 +1,21 @@
+line 1
+k a b c * - = 
+
+op	left	right	result
+*	b		c		T0
+-	a		T0		T1
+=	k		T1		T2
+
+
+line 3
+a a b + c - 32 * a / = 
+
+op	left	right	result
++	a		b		T0
+-	T0		c		T1
+*	T1		32		T2
+/	T2		a		T3
+=	a		T3		T4
+
+
+

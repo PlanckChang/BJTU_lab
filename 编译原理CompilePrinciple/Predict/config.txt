@@ -1,0 +1,10 @@
+base_source ../alu_class_base_test.txt
+base_out ../alu_class_base_result.txt
+input_file ../alu_test1.txt
+output_file ../alu_result1.txt
+
+
+// PATH have something problems
+// path have blank so fin stop after junior
+// path recommend to use compared path case the absolute path has blank
+// base on reversed_word.txt 

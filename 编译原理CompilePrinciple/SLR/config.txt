@@ -1,0 +1,16 @@
+base_source ../alu_class_base_test.txt
+base_out ../alu_class_base_result.txt
+input_file ../alu_test1.txt
+output_file ../alu_result1.txt
+output_four ../four_elements.txt
+four_output_mode 1
+
+end
+
+// PATH have something problems
+// path have blank so fin stop after junior
+// path recommend to use compared path case the absolute path has blank
+// base on reversed_word.txt 
+// output_four is path of output file of four element formula
+// mode 0 not output four element formula, mode 1 instead
+// config   reserved_word grammar alu_class_base_test files is necessary
