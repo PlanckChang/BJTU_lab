@@ -1,0 +1,3 @@
+D:/BJTU/subject/Junior First/Operating Systems/experience/test_6/Philosopher_Dining/cmake-build-debug/CMakeFiles/Philosopher_Dining.dir
+D:/BJTU/subject/Junior First/Operating Systems/experience/test_6/Philosopher_Dining/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BJTU/subject/Junior First/Operating Systems/experience/test_6/Philosopher_Dining/cmake-build-debug/CMakeFiles/rebuild_cache.dir
