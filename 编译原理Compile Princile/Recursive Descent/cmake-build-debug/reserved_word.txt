@@ -1,2 +1,0 @@
-void int float double if else for do while include iostream
-printf cin cout main

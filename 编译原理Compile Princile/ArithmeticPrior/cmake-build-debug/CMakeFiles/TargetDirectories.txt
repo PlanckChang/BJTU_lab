@@ -1,3 +1,0 @@
-D:/BJTU/subject/Junior First/Compile Principle/Experience/test4_ArithmeticPrior/cmake-build-debug/CMakeFiles/test4_ArithmeticPrior.dir
-D:/BJTU/subject/Junior First/Compile Principle/Experience/test4_ArithmeticPrior/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/BJTU/subject/Junior First/Compile Principle/Experience/test4_ArithmeticPrior/cmake-build-debug/CMakeFiles/rebuild_cache.dir

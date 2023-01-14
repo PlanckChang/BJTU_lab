@@ -1,3 +1,0 @@
-D:/BJTU/subject/Junior First/Compile Principle/Experience/test1/Lexical Analyzer/cmake-build-debug/CMakeFiles/Lexical_Analyzer.dir
-D:/BJTU/subject/Junior First/Compile Principle/Experience/test1/Lexical Analyzer/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/BJTU/subject/Junior First/Compile Principle/Experience/test1/Lexical Analyzer/cmake-build-debug/CMakeFiles/rebuild_cache.dir

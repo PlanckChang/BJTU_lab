@@ -1,3 +1,0 @@
-D:/BJTU/subject/Junior First/Compile Principle/Experience/test5_SLR/SLR/cmake-build-debug/CMakeFiles/SLR.dir
-D:/BJTU/subject/Junior First/Compile Principle/Experience/test5_SLR/SLR/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/BJTU/subject/Junior First/Compile Principle/Experience/test5_SLR/SLR/cmake-build-debug/CMakeFiles/rebuild_cache.dir

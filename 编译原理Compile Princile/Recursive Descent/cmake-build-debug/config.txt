@@ -1,4 +1,0 @@
-base_source alu_class_base_test.txt
-base_out alu_class_base_result.txt
-input_file alu_test1.txt
-output_file alu_result1.txt
