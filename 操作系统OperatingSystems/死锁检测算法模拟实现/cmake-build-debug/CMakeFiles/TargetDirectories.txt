@@ -1,0 +1,3 @@
+D:/BJTU/subject/Junior First/Operating Systems/experience/test_11/code/cmake-build-debug/CMakeFiles/code.dir
+D:/BJTU/subject/Junior First/Operating Systems/experience/test_11/code/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BJTU/subject/Junior First/Operating Systems/experience/test_11/code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
