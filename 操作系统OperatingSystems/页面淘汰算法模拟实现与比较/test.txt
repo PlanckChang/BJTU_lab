@@ -1,0 +1,11 @@
+1
+3
+20
+4
+3
+
+// whether to take the rand seed randomly
+// allocated size
+// visit page list, total size
+// v of job set
+// w for job set
