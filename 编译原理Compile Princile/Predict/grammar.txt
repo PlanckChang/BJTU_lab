@@ -1,0 +1,17 @@
+Vn S E E' T T' F A M V
+Vt + - * / = ( ) i n
+
+S -> V = E
+E -> T E'
+E' -> A T E' | e
+T -> F T'
+T' -> M F T' | e
+F -> ( E ) | i | n
+A -> + | -
+M -> * | /
+V -> i
+
+end
+// e is epilog
+// each line ends with nothing, no blank
+// Vt i is identifier num
