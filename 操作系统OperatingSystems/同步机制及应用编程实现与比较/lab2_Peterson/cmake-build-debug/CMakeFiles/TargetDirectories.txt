@@ -1,0 +1,3 @@
+D:/BJTU/subject/Junior First/Operating Systems/experience/test_5/code/lab2_Peterson/cmake-build-debug/CMakeFiles/lab2.dir
+D:/BJTU/subject/Junior First/Operating Systems/experience/test_5/code/lab2_Peterson/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BJTU/subject/Junior First/Operating Systems/experience/test_5/code/lab2_Peterson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
