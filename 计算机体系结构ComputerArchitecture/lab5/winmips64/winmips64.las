@@ -1,0 +1,1 @@
+D:\BJTU\subject\Junior First\Computer Architecture\lab5\สตั้5\winmips64\incre1.s

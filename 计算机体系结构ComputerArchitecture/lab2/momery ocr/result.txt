@@ -1,0 +1,159 @@
+$TEXT
+Ox20011000lF
+addi r1.r0.0x1000
+main+Ox4
+Ox0c00003c
+ial lnputUnsigned
+main+0x8
+:00205035
+movi2fp f10.r1
+main+Dxc
+0:x0540000d
+cvti2d iO.f10
+main+Dx10
+0x20020oo1
+addi r2,r0.0x1
+main+Dx14
+:00405835
+movi2fp f11,r2
+main+Dx18
+0:0560100d
+cvti2d 1211
+main+Dx1c
+0:00402033
+movd f4.f2
+fact.Loop
+0404001c
+led f0.f4
+Ox000001 24
+x18oooooc
+bfpt fact.Finish
+0x000001 28
+O044010E
+multd f2,f2,和
+0x0000012c
+O:04040005
+subd fO.FO.f4
+Oxooo0o130
+OxObffffec
+i fact.Loop
+nn13铝
+0x00000134
+Dxbc02102c
+sd Printfv alue[r0J.f2
+0x200e1028
+addi r14,r0,0xi028
+oxo000013c
+x44000oo5
+trap 0x5
+ox00000140
+0x440ooooo
+1ds
+trap O:0
+Dxac021094
+swi SaveR2[r0]r2
+Dxooooo148
+0xac031098
+sw SaveR3r0.r3
+0xoooo014c
+annn
+oxac04109c
+sw SaveR4[r0].r4
+Oxac0510a0
+sw SaveR5[r0]r5
+0xac011090
+swinput.PrintfPar[r0].r1
+oxuooo0158
+0x200e10g0
+addi f14,r0.0x1090
+0:ooo15
+O44000o5
+trap 0x5
+vooooo1 EO
+0200e1084
+addi r14,r0.O:1084
+oxoo000164
+x440oooo3o20021034
+trap Ox3
+0:ooooo168
+addi r2r0.Ox1034
+nnn1E
+0200i0nn
+addi r1.r0.Ox0
+0xooooo170
+0:2004000a
+addi r4 ,r0,0xa
+input.Looo
+0:904300on
+lbu r3,0x[r2]
+oooon0178
+5n65n
+seqi r5.r3,0xa
+0xooooo17c
+14a00014
+bnez r5.input.Finish
+o:oooo018o
+028630030
+subi r3,r3,0x30
+nn1Qs
+0o0240819
+multu r1 .r1 ,r4
+ox0ooon188
+0x00230820
+add r1.r1,r3
+0:oooo018
+x20420001
+addi r212,0x1
+oonn1an
+OxObffffel
+j input.Loop
+oxoooo0194
+Ox8c021094
+iw i2,saveR2[r0]
+oooo01 98
+0x8c031098
+lwr3.SaveR0j
+0x00oo019c
+0x8c04109c
+lw r4.SaveR4roj
+Ox000001 a0
+0x8c0510a0
+lwr5.SaveR5[roj
+0x000001 a4
+0x4be00000
+ir r31
+oxooooo1a8
+nop
+0x000001 ac
+Ox0000000o
+nop
+0x00o001b0
+0oooo0164
+nnnuuuuu
+nopnop
+Dxooo0o1b8
+00o0o1bc
+onnnnnonooxooonoooo
+nopnop
+xoooo01co
+eanaamaou
+nop
+0x000001c4
+ox00oooooo
+nop
+oxo00001c8
+0:x00000000
+nop
+0x000001cc
+O00o0ooo0
+nop
+0:000001d
+o000oooo0
+nop
+xooo001d4
+0x00000000
+nop
+
+
+100000000000100000000000000001
+1001100010111101100100001

@@ -1,0 +1,35 @@
+# Input filename: k6p2_table.minion
+# Command line: minion.exe k6p2_table.minion
+Parsing Time: 0.000000
+Setup Time: 0.125000
+First Node Time: 0.000000
+Initial Propagate: 0.000000
+First node time: 0.000000
+Solve Time: 67.531250
+Total Time: 67.656250
+Total System Time: 0.046875
+Total Wall Time: 67.789000
+Maximum Memory (kB): 0
+Total Nodes: 638007
+Problem solvable?: no
+Solutions Found: 0
+
+
+# Command line: minion.exe solitaire_benchmark_8.minion
+Parsing Time: 0.078125
+Setup Time: 0.015625
+First Node Time: 0.031250
+Initial Propagate: 0.031250
+First node time: 0.000000
+Solution Number: 1
+Time:87.406250
+Nodes: 1116063
+
+Solve Time: 87.406250
+Total Time: 87.531250
+Total System Time: 0.062500
+Total Wall Time: 87.771000
+Maximum Memory (kB): 0
+Total Nodes: 1116063
+Problem solvable?: yes
+Solutions Found: 1

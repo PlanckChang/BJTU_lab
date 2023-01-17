@@ -1,0 +1,3 @@
+D:/BJTU/subject/Junior First/Computer Architecture/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+D:/BJTU/subject/Junior First/Computer Architecture/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BJTU/subject/Junior First/Computer Architecture/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
