@@ -1,0 +1,1 @@
+./test_mask_detection.jpg
