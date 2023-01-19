@@ -1,0 +1,3 @@
+"D:\Program Files\JetBrains\CLion 2021.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\CS_Mindset_Comprehensive_Training.dir/objects.a
+D:\PROGRA~2\Dev-Cpp\MinGW64\bin\ar.exe cr CMakeFiles\CS_Mindset_Comprehensive_Training.dir/objects.a @CMakeFiles\CS_Mindset_Comprehensive_Training.dir\objects1.rsp
+D:\PROGRA~2\Dev-Cpp\MinGW64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\CS_Mindset_Comprehensive_Training.dir/objects.a -Wl,--no-whole-archive -o CS_Mindset_Comprehensive_Training.exe -Wl,--out-implib,libCS_Mindset_Comprehensive_Training.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CS_Mindset_Comprehensive_Training.dir\linklibs.rsp
