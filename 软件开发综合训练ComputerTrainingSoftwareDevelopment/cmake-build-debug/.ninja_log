@@ -1,0 +1,9 @@
+# ninja log v5
+819	969	6789876197383927	SoftwareTraining.exe	b939dd6fc7bb221
+3	819	6789876195974206	CMakeFiles/SoftwareTraining.dir/main.cpp.obj	9c5e9013903eecf4
+15	785	6790556946632004	CMakeFiles/SoftwareTraining.dir/main.cpp.obj	8b8c6b88ff8bcc89
+786	956	6790556948256871	SoftwareTraining.exe	f2da6466e9156a94
+4	2057	6791292238448335	CMakeFiles/SoftwareTraining.dir/main.cpp.obj	8b8c6b88ff8bcc89
+2057	2805	6791292245933283	SoftwareTraining.exe	f2da6466e9156a94
+5	819	6791559641214218	CMakeFiles/SoftwareTraining.dir/main.cpp.obj	8b8c6b88ff8bcc89
+820	1001	6791559642890434	SoftwareTraining.exe	f2da6466e9156a94

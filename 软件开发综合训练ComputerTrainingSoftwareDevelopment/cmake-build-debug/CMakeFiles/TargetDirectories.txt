@@ -1,0 +1,3 @@
+D:/BJTU/subject/Second semester of sophomore/SoftwareTraining/cmake-build-debug/CMakeFiles/SoftwareTraining.dir
+D:/BJTU/subject/Second semester of sophomore/SoftwareTraining/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BJTU/subject/Second semester of sophomore/SoftwareTraining/cmake-build-debug/CMakeFiles/rebuild_cache.dir

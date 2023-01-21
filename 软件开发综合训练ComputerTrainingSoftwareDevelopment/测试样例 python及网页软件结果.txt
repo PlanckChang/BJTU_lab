@@ -1,0 +1,52 @@
+Python 3.9.12 (main, Apr  4 2022, 05:22:27) [MSC v.1916 64 bit (AMD64)] :: Anaconda, Inc. on win32
+
+Warning:
+This Python interpreter is in a conda environment, but the environment has
+not been activated.  Libraries may fail to load.  To activate this environment
+please see https://conda.io/activation
+
+Type "help", "copyright", "credits" or "license" for more information.
+>>> import math
+>>> 4657876578978681+ 269876567987677
+4927753146966358
+>>> 5456754567565778.236786786776- 76785677866.67867
+5456677781887911.0
+>>> 7687986797787676789786.57866865767665* 7686877968767.09867
+5.909661634008641e+34
+>>> 65786879876778.9089192083068949/ 27032071023721.2321307
+2.433660366571599
+>>> 32849032509327**2
+1079058936798822102341992929
+>>> 2817329074023727**3
+22362107518078414713586708195756639938039741583
+>>> math.sin(374234093284029.340293)
+-0.9959661122371025
+>>> math.cos(890289302.2323)
+0.11220133722890563
+>>> log10(217301701242122.2313)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+NameError: name 'log10' is not defined
+>>> math.log(217301701242122.2313)
+33.01230783216223
+>>> math.log10(217301701242122.2313)
+14.337063126399558
+>>> 23820.2323**2327
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+OverflowError: (34, 'Result too large')
+>>> math.pow(23820.2323
+... ,2327)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+OverflowError: math range error
+>>> pow(23820.2323
+... ,2327)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+OverflowError: (34, 'Result too large')
+>>> pow(23820.2323, 2327)
+Traceback (most recent call last):
+  File "<stdin>", line 1, in <module>
+OverflowError: (34, 'Result too large')
+>
