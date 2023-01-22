@@ -1,0 +1,1 @@
+2 17 I love C++, yeah!10 I score 5.

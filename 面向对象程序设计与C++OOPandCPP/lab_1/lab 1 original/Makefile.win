@@ -1,0 +1,28 @@
+# Project: lab_1
+# Makefile created by Dev-C++ 5.15
+
+CPP      = g++.exe -D__DEBUG__
+CC       = gcc.exe -D__DEBUG__
+WINDRES  = windres.exe
+OBJ      = 20271259.o
+LINKOBJ  = 20271259.o
+LIBS     = -L"D:/Program Files (x86)/Dev-Cpp/TDM-GCC-64/lib" -L"D:/Program Files (x86)/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/lib" -static-libgcc -m64 -g3
+INCS     = -I"D:/Program Files (x86)/Dev-Cpp/TDM-GCC-64/include" -I"D:/Program Files (x86)/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include"
+CXXINCS  = -I"D:/Program Files (x86)/Dev-Cpp/TDM-GCC-64/include" -I"D:/Program Files (x86)/Dev-Cpp/TDM-GCC-64/x86_64-w64-mingw32/include" -I"D:/Program Files (x86)/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include" -I"D:/Program Files (x86)/Dev-Cpp/TDM-GCC-64/lib/gcc/x86_64-w64-mingw32/9.2.0/include/c++"
+BIN      = lab_1.exe
+CXXFLAGS = $(CXXINCS) -Og -m64 -g3
+CFLAGS   = $(INCS) -Og -m64 -g3
+RM       = del /q
+
+.PHONY: all all-before all-after clean clean-custom
+
+all: all-before $(BIN) all-after
+
+clean: clean-custom
+	${RM} $(OBJ) $(BIN)
+
+$(BIN): $(OBJ)
+	$(CPP) $(LINKOBJ) -o $(BIN) $(LIBS)
+
+20271259.o: 20271259.cpp
+	$(CPP) -c 20271259.cpp -o 20271259.o $(CXXFLAGS)
