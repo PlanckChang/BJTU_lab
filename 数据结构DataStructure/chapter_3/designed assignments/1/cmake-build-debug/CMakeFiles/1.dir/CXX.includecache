@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/BJTU/subject/sophomore/data structure/chater_3/designed assignments/1/main.cpp
+iostream
+-
+time.h
+-
+string.h
+-
+

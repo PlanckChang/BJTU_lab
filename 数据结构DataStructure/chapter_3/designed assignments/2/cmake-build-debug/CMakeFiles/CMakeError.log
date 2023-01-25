@@ -1,0 +1,13 @@
+Detecting CXX [-std=c++14] compiler features failed to compile with the following output:
+Change Dir: D:/BJTU/subject/sophomore/data structure/chater_3/designed assignments/年后/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):D:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe -f Makefile cmTC_6357b/fast && D:/PROGRA~2/Dev-Cpp/MinGW64/bin/mingw32-make.exe  -f CMakeFiles\cmTC_6357b.dir\build.make CMakeFiles/cmTC_6357b.dir/build
+mingw32-make.exe[1]: Entering directory 'D:/BJTU/subject/sophomore/data structure/chater_3/designed assignments/年后/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: Leaving directory 'D:/BJTU/subject/sophomore/data structure/chater_3/designed assignments/年后/cmake-build-debug/CMakeFiles/CMakeTmp'
+mingw32-make.exe[1]: *** No rule to make target 'D:/BJTU/subject/sophomore/data structure/chater_3/designed assignments/骞村悗/cmake-build-debug/CMakeFiles/feature_tests.cxx', needed by 'CMakeFiles/cmTC_6357b.dir/feature_tests.cxx.obj'.  Stop.
+Makefile:126: recipe for target 'cmTC_6357b/fast' failed
+mingw32-make.exe: *** [cmTC_6357b/fast] Error 2
+
+
+
+
