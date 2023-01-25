@@ -1,0 +1,66 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_call.h
+
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_conf.cpp
+Lab5_conf.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_conf.h
+stdio.h
+-
+stdlib.h
+-
+
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_conf.h
+
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_data.h
+
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_loadfile.cpp
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+Lab5_data.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_data.h
+Lab5_view.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_view.h
+Lab5_loadfile.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_loadfile.h
+
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_loadfile.h
+
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_main.cpp
+Lab5_call.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_call.h
+Lab5_conf.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_conf.h
+Lab5_data.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_data.h
+Lab5_loadfile.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_loadfile.h
+Lab5_view.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_view.h
+stdlib.h
+-
+stdio.h
+-
+string.h
+-
+
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_view.cpp
+Lab5_view.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_view.h
+stdio.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/stdio.h
+
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_view.h
+Lab5_data.h
+D:/BJTU/subject/sophomore/Programming group training/Lab5/Lab5_data.h
+

@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/BJTU/subject/sophomore/Programming group training/Lab4/data.h
+
+D:/BJTU/subject/sophomore/Programming group training/Lab4/fun.cpp
+fun.h
+D:/BJTU/subject/sophomore/Programming group training/Lab4/fun.h
+string.h
+-
+random
+-
+unistd.h
+-
+time.h
+-
+
+D:/BJTU/subject/sophomore/Programming group training/Lab4/fun.h
+data.h
+D:/BJTU/subject/sophomore/Programming group training/Lab4/data.h
+

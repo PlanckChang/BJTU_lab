@@ -1,0 +1,3 @@
+D:/BJTU/subject/sophomore/Programming group training/lab6/cmake-build-debug/CMakeFiles/lab6.dir
+D:/BJTU/subject/sophomore/Programming group training/lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/BJTU/subject/sophomore/Programming group training/lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir

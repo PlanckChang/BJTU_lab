@@ -1,0 +1,78 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_call.h
+
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_cmp.cpp
+lab6_cmp.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_cmp.h
+
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_cmp.h
+cstdio
+-
+lab6_conf.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_conf.h
+lab6_data.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_data.h
+lab6_conf.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_conf.h
+lab6_view.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_view.h
+
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_conf.h
+
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_data.h
+
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_loadfile.cpp
+lab6_loadfile.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_loadfile.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+lab6_data.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_data.h
+lab6_view.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_view.h
+lab6_cmp.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_cmp.h
+
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_loadfile.h
+
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_main.h
+lab6_loadfile.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_loadfile.h
+lab6_conf.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_conf.h
+string.h
+-
+lab6_loadfile.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_loadfile.h
+stdio.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/stdio.h
+stdlib.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/stdlib.h
+lab6_call.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_call.h
+lab6_view.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_view.h
+
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_view.h
+lab6_data.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_data.h
+
+D:/BJTU/subject/sophomore/Programming group training/lab6/main.cpp
+lab6_main.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_main.h
+stdlib.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/stdlib.h
+lab6_cmp.h
+D:/BJTU/subject/sophomore/Programming group training/lab6/lab6_cmp.h
+
