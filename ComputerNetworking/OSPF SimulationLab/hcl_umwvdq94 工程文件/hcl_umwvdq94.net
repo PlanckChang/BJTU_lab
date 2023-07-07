@@ -1,0 +1,149 @@
+version = 5.5.0
+[vbox 127.0.0.1:16600]
+    workingdir = d:\bjtu\subject\junior second\networking\experiments\simulationlab\hcl_umwvdq94\working
+    udp = 10000
+    [[PC PC_1]]
+        device_id = 4
+        bridge_mac = a6-d0-41-e4-04-00
+        slot0 = PC 250
+        GE_0/1 = Router_1 GE_0/1
+        symbol = PC
+        x = -57.0
+        y = -422.0
+        z = 5.0
+    [[MSR36-20 Router_1]]
+        device_id = 1
+        bridge_mac = a6-cf-a4-d9-01-00
+        slot0 = MSR36 384
+        GE_0/1 = PC_1 GE_0/1
+        GE_0/2 = Router_3 GE_0/0
+        GE_0/0 = Router_2 GE_0/0
+        x = -55.0
+        y = -296.0
+        z = 5.0
+    [[MSR36-20 Router_2]]
+        device_id = 2
+        bridge_mac = a6-cf-aa-8c-02-00
+        slot0 = MSR36 384
+        GE_0/1 = Router_3 GE_0/1
+        GE_0/0 = Router_1 GE_0/0
+        GE_0/2 = PC_2 GE_0/1
+        x = -280.0
+        y = 26.0
+        z = 5.0
+    [[MSR36-20 Router_3]]
+        device_id = 3
+        bridge_mac = a6-cf-b4-d4-03-00
+        slot0 = MSR36 384
+        GE_0/0 = Router_1 GE_0/2
+        GE_0/2 = PC_3 GE_0/1
+        GE_0/1 = Router_2 GE_0/1
+        x = 155.0
+        y = 23.0
+        z = 5.0
+    [[PC PC_2]]
+        device_id = 5
+        bridge_mac = a6-d0-50-3f-05-00
+        slot0 = PC 250
+        GE_0/1 = Router_2 GE_0/2
+        symbol = PC
+        x = -441.0
+        y = 144.0
+        z = 5.0
+    [[PC PC_3]]
+        device_id = 6
+        bridge_mac = a6-d0-54-c0-06-00
+        slot0 = PC 250
+        GE_0/1 = Router_3 GE_0/2
+        symbol = PC
+        x = 281.0
+        y = 142.0
+        z = 5.0
+[Non-vBox-DATA]
+    workdir = working
+    m11 = 1.2
+    m22 = 1.2
+    [[NOTE 1]]
+        text = "GE_0/1"
+        interface = PC_3 GE_0/1
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = -90.40644780901061
+        y = 1.0
+        z = 6.0
+    [[NOTE 2]]
+        text = "GE_0/1"
+        interface = PC_2 GE_0/1
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = -88.83295434134698
+        y = -22.77564244335224
+        z = 6.0
+    [[NOTE 3]]
+        text = "GE_0/1"
+        interface = PC_1 GE_0/1
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = 66.63484066506896
+        y = 42.994961899343934
+        z = 6.0
+    [[NOTE 4]]
+        text = "GE_0/1"
+        interface = Router_3 GE_0/1
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = -109.9998990030337
+        y = 45.91011258651004
+        z = 6.0
+    [[NOTE 5]]
+        text = "GE_0/2"
+        interface = Router_3 GE_0/2
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = 56.406447809010615
+        y = 20.16156463824329
+        z = 6.0
+    [[NOTE 6]]
+        text = "GE_0/0"
+        interface = Router_3 GE_0/0
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = -93.51759056038972
+        y = -41.0
+        z = 6.0
+    [[NOTE 7]]
+        text = "GE_0/2"
+        interface = Router_2 GE_0/2
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = -107.16704565865302
+        y = 43.77564244335224
+        z = 6.0
+    [[NOTE 8]]
+        text = "GE_0/0"
+        interface = Router_2 GE_0/0
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = -29.088850403223603
+        y = -54.0
+        z = 6.0
+    [[NOTE 9]]
+        text = "GE_0/1"
+        interface = Router_2 GE_0/1
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = 87.9998990030337
+        y = 50.08988741348996
+        z = 6.0
+    [[NOTE 10]]
+        text = "GE_0/0"
+        interface = Router_1 GE_0/0
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = -132.9111495967764
+        y = 39.788400756275564
+        z = 6.0
+    [[NOTE 11]]
+        text = "GE_0/2"
+        interface = Router_1 GE_0/2
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = 95.51759056038972
+        y = 49.05991705002674
+        z = 6.0
+    [[NOTE 12]]
+        text = "GE_0/1"
+        interface = Router_1 GE_0/1
+        font = "Arial,10,-1,5,50,0,0,0,0,0"
+        x = 42.365159334931036
+        y = -11.0
+        z = 6.0
