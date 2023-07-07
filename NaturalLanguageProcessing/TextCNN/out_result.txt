@@ -1,0 +1,262 @@
+epoch 0, step 10, train_loss: 0.66
+epoch 0, step 20, train_loss: 0.62
+epoch 0, step 30, train_loss: 0.55
+epoch 0, step 40, train_loss: 0.53
+epoch = 1, loss = 0.5969, train_acc = 0.6743, test_acc = 0.8312
+model acc: 83.12%, save...
+epoch 1, step 10, train_loss: 0.43
+epoch 1, step 20, train_loss: 0.38
+epoch 1, step 30, train_loss: 0.40
+epoch 1, step 40, train_loss: 0.36
+epoch = 2, loss = 0.4011, train_acc = 0.8259, test_acc = 0.8547
+model acc: 85.47%, save...
+epoch 2, step 10, train_loss: 0.34
+epoch 2, step 20, train_loss: 0.36
+epoch 2, step 30, train_loss: 0.32
+epoch 2, step 40, train_loss: 0.29
+epoch = 3, loss = 0.3371, train_acc = 0.8559, test_acc = 0.8667
+model acc: 86.67%, save...
+epoch 3, step 10, train_loss: 0.31
+epoch 3, step 20, train_loss: 0.30
+epoch 3, step 30, train_loss: 0.30
+epoch 3, step 40, train_loss: 0.32
+epoch = 4, loss = 0.3014, train_acc = 0.8728, test_acc = 0.8783
+model acc: 87.83%, save...
+epoch 4, step 10, train_loss: 0.26
+epoch 4, step 20, train_loss: 0.27
+epoch 4, step 30, train_loss: 0.28
+epoch 4, step 40, train_loss: 0.25
+epoch = 5, loss = 0.2697, train_acc = 0.8901, test_acc = 0.8820
+model acc: 88.20%, save...
+epoch 5, step 10, train_loss: 0.26
+epoch 5, step 20, train_loss: 0.23
+epoch 5, step 30, train_loss: 0.23
+epoch 5, step 40, train_loss: 0.23
+epoch = 6, loss = 0.2426, train_acc = 0.9025, test_acc = 0.8865
+model acc: 88.65%, save...
+epoch 6, step 10, train_loss: 0.24
+epoch 6, step 20, train_loss: 0.21
+epoch 6, step 30, train_loss: 0.21
+epoch 6, step 40, train_loss: 0.22
+epoch = 7, loss = 0.2168, train_acc = 0.9170, test_acc = 0.8887
+model acc: 88.87%, save...
+epoch 7, step 10, train_loss: 0.16
+epoch 7, step 20, train_loss: 0.20
+epoch 7, step 30, train_loss: 0.17
+epoch 7, step 40, train_loss: 0.18
+epoch = 8, loss = 0.1924, train_acc = 0.9276, test_acc = 0.8901
+model acc: 89.01%, save...
+epoch 8, step 10, train_loss: 0.17
+epoch 8, step 20, train_loss: 0.19
+epoch 8, step 30, train_loss: 0.16
+epoch 8, step 40, train_loss: 0.17
+epoch = 9, loss = 0.1712, train_acc = 0.9394, test_acc = 0.8921
+model acc: 89.21%, save...
+epoch 9, step 10, train_loss: 0.14
+epoch 9, step 20, train_loss: 0.13
+epoch 9, step 30, train_loss: 0.20
+epoch 9, step 40, train_loss: 0.14
+epoch = 10, loss = 0.1500, train_acc = 0.9491, test_acc = 0.8927
+model acc: 89.27%, save...
+epoch 10, step 10, train_loss: 0.11
+epoch 10, step 20, train_loss: 0.14
+epoch 10, step 30, train_loss: 0.11
+epoch 10, step 40, train_loss: 0.11
+epoch = 11, loss = 0.1262, train_acc = 0.9595, test_acc = 0.8936
+model acc: 89.36%, save...
+epoch 11, step 10, train_loss: 0.13
+epoch 11, step 20, train_loss: 0.11
+epoch 11, step 30, train_loss: 0.13
+epoch 11, step 40, train_loss: 0.11
+epoch = 12, loss = 0.1105, train_acc = 0.9652, test_acc = 0.8935
+epoch 12, step 10, train_loss: 0.10
+epoch 12, step 20, train_loss: 0.09
+epoch 12, step 30, train_loss: 0.09
+epoch 12, step 40, train_loss: 0.09
+epoch = 13, loss = 0.0960, train_acc = 0.9724, test_acc = 0.8941
+model acc: 89.41%, save...
+epoch 13, step 10, train_loss: 0.07
+epoch 13, step 20, train_loss: 0.09
+epoch 13, step 30, train_loss: 0.08
+epoch 13, step 40, train_loss: 0.07
+epoch = 14, loss = 0.0801, train_acc = 0.9784, test_acc = 0.8938
+epoch 14, step 10, train_loss: 0.07
+epoch 14, step 20, train_loss: 0.06
+epoch 14, step 30, train_loss: 0.09
+epoch 14, step 40, train_loss: 0.06
+epoch = 15, loss = 0.0693, train_acc = 0.9817, test_acc = 0.8930
+epoch 15, step 10, train_loss: 0.06
+epoch 15, step 20, train_loss: 0.06
+epoch 15, step 30, train_loss: 0.06
+epoch 15, step 40, train_loss: 0.06
+epoch = 16, loss = 0.0586, train_acc = 0.9861, test_acc = 0.8930
+epoch 16, step 10, train_loss: 0.05
+epoch 16, step 20, train_loss: 0.05
+epoch 16, step 30, train_loss: 0.04
+epoch 16, step 40, train_loss: 0.04
+epoch = 17, loss = 0.0496, train_acc = 0.9888, test_acc = 0.8927
+epoch 17, step 10, train_loss: 0.04
+epoch 17, step 20, train_loss: 0.04
+epoch 17, step 30, train_loss: 0.06
+epoch 17, step 40, train_loss: 0.04
+epoch = 18, loss = 0.0425, train_acc = 0.9912, test_acc = 0.8918
+epoch 18, step 10, train_loss: 0.05
+epoch 18, step 20, train_loss: 0.04
+epoch 18, step 30, train_loss: 0.05
+epoch 18, step 40, train_loss: 0.03
+epoch = 19, loss = 0.0381, train_acc = 0.9913, test_acc = 0.8885
+epoch 19, step 10, train_loss: 0.03
+epoch 19, step 20, train_loss: 0.02
+epoch 19, step 30, train_loss: 0.03
+epoch 19, step 40, train_loss: 0.02
+epoch = 20, loss = 0.0312, train_acc = 0.9944, test_acc = 0.8902
+epoch 20, step 10, train_loss: 0.02
+epoch 20, step 20, train_loss: 0.03
+epoch 20, step 30, train_loss: 0.04
+epoch 20, step 40, train_loss: 0.03
+epoch = 21, loss = 0.0293, train_acc = 0.9941, test_acc = 0.8891
+epoch 21, step 10, train_loss: 0.03
+epoch 21, step 20, train_loss: 0.02
+epoch 21, step 30, train_loss: 0.03
+epoch 21, step 40, train_loss: 0.02
+epoch = 22, loss = 0.0238, train_acc = 0.9963, test_acc = 0.8887
+epoch 22, step 10, train_loss: 0.02
+epoch 22, step 20, train_loss: 0.03
+epoch 22, step 30, train_loss: 0.02
+epoch 22, step 40, train_loss: 0.02
+epoch = 23, loss = 0.0213, train_acc = 0.9965, test_acc = 0.8865
+epoch 23, step 10, train_loss: 0.02
+epoch 23, step 20, train_loss: 0.01
+epoch 23, step 30, train_loss: 0.02
+epoch 23, step 40, train_loss: 0.01
+epoch = 24, loss = 0.0183, train_acc = 0.9971, test_acc = 0.8864
+epoch 24, step 10, train_loss: 0.01
+epoch 24, step 20, train_loss: 0.02
+epoch 24, step 30, train_loss: 0.01
+epoch 24, step 40, train_loss: 0.01
+epoch = 25, loss = 0.0162, train_acc = 0.9976, test_acc = 0.8877
+epoch 25, step 10, train_loss: 0.01
+epoch 25, step 20, train_loss: 0.01
+epoch 25, step 30, train_loss: 0.01
+epoch 25, step 40, train_loss: 0.02
+epoch = 26, loss = 0.0150, train_acc = 0.9982, test_acc = 0.8872
+epoch 26, step 10, train_loss: 0.01
+epoch 26, step 20, train_loss: 0.01
+epoch 26, step 30, train_loss: 0.03
+epoch 26, step 40, train_loss: 0.01
+epoch = 27, loss = 0.0130, train_acc = 0.9984, test_acc = 0.8866
+epoch 27, step 10, train_loss: 0.02
+epoch 27, step 20, train_loss: 0.01
+epoch 27, step 30, train_loss: 0.01
+epoch 27, step 40, train_loss: 0.01
+epoch = 28, loss = 0.0123, train_acc = 0.9985, test_acc = 0.8864
+epoch 28, step 10, train_loss: 0.01
+epoch 28, step 20, train_loss: 0.01
+epoch 28, step 30, train_loss: 0.01
+epoch 28, step 40, train_loss: 0.01
+epoch = 29, loss = 0.0106, train_acc = 0.9989, test_acc = 0.8858
+epoch 29, step 10, train_loss: 0.01
+epoch 29, step 20, train_loss: 0.01
+epoch 29, step 30, train_loss: 0.02
+epoch 29, step 40, train_loss: 0.01
+epoch = 30, loss = 0.0099, train_acc = 0.9991, test_acc = 0.8850
+epoch 30, step 10, train_loss: 0.01
+epoch 30, step 20, train_loss: 0.01
+epoch 30, step 30, train_loss: 0.01
+epoch 30, step 40, train_loss: 0.01
+epoch = 31, loss = 0.0093, train_acc = 0.9985, test_acc = 0.8841
+epoch 31, step 10, train_loss: 0.01
+epoch 31, step 20, train_loss: 0.01
+epoch 31, step 30, train_loss: 0.01
+epoch 31, step 40, train_loss: 0.01
+epoch = 32, loss = 0.0081, train_acc = 0.9990, test_acc = 0.8836
+epoch 32, step 10, train_loss: 0.01
+epoch 32, step 20, train_loss: 0.01
+epoch 32, step 30, train_loss: 0.01
+epoch 32, step 40, train_loss: 0.01
+epoch = 33, loss = 0.0076, train_acc = 0.9994, test_acc = 0.8839
+epoch 33, step 10, train_loss: 0.01
+epoch 33, step 20, train_loss: 0.01
+epoch 33, step 30, train_loss: 0.01
+epoch 33, step 40, train_loss: 0.01
+epoch = 34, loss = 0.0077, train_acc = 0.9988, test_acc = 0.8827
+epoch 34, step 10, train_loss: 0.01
+epoch 34, step 20, train_loss: 0.01
+epoch 34, step 30, train_loss: 0.01
+epoch 34, step 40, train_loss: 0.01
+epoch = 35, loss = 0.0065, train_acc = 0.9994, test_acc = 0.8822
+epoch 35, step 10, train_loss: 0.01
+epoch 35, step 20, train_loss: 0.01
+epoch 35, step 30, train_loss: 0.01
+epoch 35, step 40, train_loss: 0.01
+epoch = 36, loss = 0.0062, train_acc = 0.9995, test_acc = 0.8830
+epoch 36, step 10, train_loss: 0.01
+epoch 36, step 20, train_loss: 0.01
+epoch 36, step 30, train_loss: 0.01
+epoch 36, step 40, train_loss: 0.00
+epoch = 37, loss = 0.0059, train_acc = 0.9992, test_acc = 0.8837
+epoch 37, step 10, train_loss: 0.01
+epoch 37, step 20, train_loss: 0.00
+epoch 37, step 30, train_loss: 0.00
+epoch 37, step 40, train_loss: 0.00
+epoch = 38, loss = 0.0053, train_acc = 0.9995, test_acc = 0.8830
+epoch 38, step 10, train_loss: 0.01
+epoch 38, step 20, train_loss: 0.01
+epoch 38, step 30, train_loss: 0.00
+epoch 38, step 40, train_loss: 0.00
+epoch = 39, loss = 0.0049, train_acc = 0.9996, test_acc = 0.8834
+epoch 39, step 10, train_loss: 0.00
+epoch 39, step 20, train_loss: 0.00
+epoch 39, step 30, train_loss: 0.00
+epoch 39, step 40, train_loss: 0.00
+epoch = 40, loss = 0.0042, train_acc = 0.9997, test_acc = 0.8831
+epoch 40, step 10, train_loss: 0.00
+epoch 40, step 20, train_loss: 0.00
+epoch 40, step 30, train_loss: 0.00
+epoch 40, step 40, train_loss: 0.01
+epoch = 41, loss = 0.0045, train_acc = 0.9995, test_acc = 0.8825
+epoch 41, step 10, train_loss: 0.01
+epoch 41, step 20, train_loss: 0.01
+epoch 41, step 30, train_loss: 0.00
+epoch 41, step 40, train_loss: 0.00
+epoch = 42, loss = 0.0038, train_acc = 0.9997, test_acc = 0.8818
+epoch 42, step 10, train_loss: 0.01
+epoch 42, step 20, train_loss: 0.00
+epoch 42, step 30, train_loss: 0.00
+epoch 42, step 40, train_loss: 0.00
+epoch = 43, loss = 0.0042, train_acc = 0.9994, test_acc = 0.8819
+epoch 43, step 10, train_loss: 0.00
+epoch 43, step 20, train_loss: 0.00
+epoch 43, step 30, train_loss: 0.00
+epoch 43, step 40, train_loss: 0.01
+epoch = 44, loss = 0.0035, train_acc = 0.9997, test_acc = 0.8812
+epoch 44, step 10, train_loss: 0.00
+epoch 44, step 20, train_loss: 0.01
+epoch 44, step 30, train_loss: 0.00
+epoch 44, step 40, train_loss: 0.01
+epoch = 45, loss = 0.0033, train_acc = 0.9997, test_acc = 0.8811
+epoch 45, step 10, train_loss: 0.00
+epoch 45, step 20, train_loss: 0.00
+epoch 45, step 30, train_loss: 0.00
+epoch 45, step 40, train_loss: 0.00
+epoch = 46, loss = 0.0034, train_acc = 0.9998, test_acc = 0.8811
+epoch 46, step 10, train_loss: 0.00
+epoch 46, step 20, train_loss: 0.00
+epoch 46, step 30, train_loss: 0.01
+epoch 46, step 40, train_loss: 0.00
+epoch = 47, loss = 0.0036, train_acc = 0.9996, test_acc = 0.8814
+epoch 47, step 10, train_loss: 0.00
+epoch 47, step 20, train_loss: 0.00
+epoch 47, step 30, train_loss: 0.00
+epoch 47, step 40, train_loss: 0.00
+epoch = 48, loss = 0.0030, train_acc = 0.9998, test_acc = 0.8808
+epoch 48, step 10, train_loss: 0.00
+epoch 48, step 20, train_loss: 0.00
+epoch 48, step 30, train_loss: 0.00
+epoch 48, step 40, train_loss: 0.00
+epoch = 49, loss = 0.0026, train_acc = 0.9997, test_acc = 0.8811
+epoch 49, step 10, train_loss: 0.00
+epoch 49, step 20, train_loss: 0.00
+epoch 49, step 30, train_loss: 0.01
+epoch 49, step 40, train_loss: 0.00
+epoch = 50, loss = 0.0029, train_acc = 0.9997, test_acc = 0.8797

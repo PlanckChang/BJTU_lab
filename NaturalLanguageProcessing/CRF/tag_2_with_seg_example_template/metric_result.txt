@@ -1,0 +1,13 @@
+eval train_dataset
+Precision: 96.12
+Recall: 95.87
+F1: 95.94
+Accuracy: 95.87
+
+
+
+eval test_dataset
+Precision: 93.06
+Recall: 92.54
+F1: 92.70
+Accuracy: 92.54

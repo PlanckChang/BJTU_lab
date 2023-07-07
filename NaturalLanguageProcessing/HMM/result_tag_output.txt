@@ -1,0 +1,16 @@
+first step done
+67
+second step done
+save model done
+build done
+start predict for train
+平均准确率为: .912982
+平均精确率为:0.912982
+平均召回率为: 0.912982
+平均F1值为:0.906052
+start predict for test
+预测与结果词数不符，此句有误
+平均准确率为: .881230
+平均精确率为:0.888248
+平均召回率为:0.881230
+平均F1值为:0.875009

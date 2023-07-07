@@ -1,0 +1,15 @@
+first step done
+4
+second step done
+save model done
+build done
+start predict for train
+average acc 0.815535
+average pre 0.823850
+average recall 0.815535
+average f1 0.808796
+start predict for test
+average acc 0.780879
+average pre 0.804760
+average recall 0.780879
+average f1 0.779809
