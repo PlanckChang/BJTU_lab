@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>修改元组</title>
+</head>
+<body>
+<h1>修改元组</h1>
+
+<form action="/modify" method="post">
+    {% for c, d in column_data %}
+        <input type="text" name="{{ c }}" placeholder="{{ c }}" value="{{ d }}">
+    {% endfor %}
+    <input type="submit" value="Add this new customer" onclick="function_modify_successful()">
+</form>
+    <div>
+        <a href="/info"><button>查看数据</button></a>
+    </div>
+
+<script>
+        function function_delete(){
+            var txt;
+            confirm("修改成功")
+            txt = "你已成功插入数据！点击查看数据可查看更新后的数据";
+            document.getElementById("demo").innerHTML = txt;
+        }
+</script>
+</body>
+</html>
